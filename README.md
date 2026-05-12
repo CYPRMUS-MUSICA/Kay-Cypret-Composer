@@ -2,7 +2,7 @@
 
 Static website for Kay Cypret, modern classical composer.
 
-🌐 **Live site:** _add your GitHub Pages URL here once deployed_
+🌐 **Live site: https://cyprmus-musica.github.io/Kay-Cypret-Composer/
 
 ## About
 
